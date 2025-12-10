@@ -1,0 +1,7 @@
+ChartQA/
+GQA/
+TEXTVQA/
+datasets_train/
+datasets_val_test/
+checkpoints/
+cache/
